@@ -3,12 +3,12 @@ fullScreenApp
 
 Full screen android application with Action Bar Compart. Support android 2.2+ including Kit Kat version.
 
-# Dependencies
+## Dependencies
 
 * Android Support Library v7 - Action Bar Compat
   * If you don't know setup or download, please read this: [https://developer.android.com/tools/support-library/setup.html](https://developer.android.com/tools/support-library/setup.html)
 
-# Inpiration
+## Inpiration
 
 I was using Eclipse IDE and I created a new default  full screen application.
 This example works perfect on android 2.2 - 4.2 version, but had some issues
@@ -22,7 +22,7 @@ I also used Action Bar overlay. With this trick the transitions are more smooth
 between screen modes, and prevent layout rezise all time( It cause white spaces
 before transitions start).
 
-# References
+## References
 
 * Eclipse default full screen application
 * Codes on [http://developer.android.com/reference/android/view/View.html#setSystemUiVisibility(int)](http://developer.android.com/reference/android/view/View.html#setSystemUiVisibility(int))
