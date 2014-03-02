@@ -6,7 +6,7 @@ Full screen android application with Action Bar Compart. Support android 2.2+ in
 # Dependencies
 
 * Android Support Library v7 - Action Bar Compat
-** If you don't know setup or download, please read this: [https://developer.android.com/tools/support-library/setup.html](https://developer.android.com/tools/support-library/setup.html)
+  * If you don't know setup or download, please read this: [https://developer.android.com/tools/support-library/setup.html](https://developer.android.com/tools/support-library/setup.html)
 
 # Inpiration
 
