@@ -8,7 +8,7 @@ Full screen android application with Action Bar Compart. Support android 2.2+ in
 * Android Support Library v7 - Action Bar Compat
   * If you don't know setup or download, please read this: [https://developer.android.com/tools/support-library/setup.html](https://developer.android.com/tools/support-library/setup.html)
 
-## Inpiration
+## Inspiration
 
 I was using Eclipse IDE and I created a new default  full screen application.
 This example works perfect on android 2.2 - 4.2 version, but had some issues
